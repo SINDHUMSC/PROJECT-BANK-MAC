@@ -1,0 +1,19 @@
+
+.login {
+  background-image: url("app.jpg"); /* Replace 'path_to_your_background_image.jpg' with the actual path to your image */
+  background-size: cover;
+  background-position: center;
+  height: 465px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.name{
+  color: rgb(247, 244, 244);
+  padding-bottom: 40%;
+}
+
+.logo-img {
+  width: 300px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}

@@ -1,0 +1,48 @@
+/* Style for the create account page container */
+.create-account-container {
+  background-image: url("software.jpg");
+  background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 465px;;
+   
+  }
+  
+  /* Style for the create account form */
+  .create-account-form {
+    border: 1px solid #02020c;
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+  }
+  
+  /* Style for the form inputs */
+  .create-account-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .create-account-form input[type="text"],
+  .create-account-form input[type="email"],
+  .create-account-form input[type="password"] {
+    width: 100%;
+    padding: 4px;
+    border: 1px solid #030303;
+    border-radius: 20px;
+  }
+  .sample{
+    color: #fbfbfc;
+  }
+  
+  /* Style for the create account button */
+  .create-account-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #61575f;
+    color: #0a0a0a;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,57 @@
+/* Style for the login page container */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Style for the login form */
+  .login-form {
+    border: 1px solid #030303;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+  }
+  
+  /* Style for the form inputs */
+  .login-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .login-form input[type="text"],
+  .login-form input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #030303;
+    border-radius: 3px;
+    
+  }
+  
+  /* Style for the login button */
+  .login-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+  }
+  .sample{
+    color: #ffffff;
+  }
+  .login-container{
+    background-image: url("download.jpg");
+    background-size: cover;
+    height: 465px;
+  }
+  
+  /* Style for the welcome message */
+  .welcome-message {
+    text-align: center;
+    border-radius: 20px;
+  }
+  

@@ -1,0 +1,15 @@
+.Nav {
+    background-color: #7a8feb; /* Adjust background color as needed */
+  }
+  
+  .navbar-nav .nav-item .nav-link {
+    color: #f5f3f8; /* Adjust text color as needed */
+    font-weight: bold; /* Adjust font weight as needed */
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #070200; /* Adjust hover color as needed */
+  }
+  
+  /* Add more styles as needed */
+  

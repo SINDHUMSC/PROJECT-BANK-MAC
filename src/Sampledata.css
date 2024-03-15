@@ -1,0 +1,19 @@
+/* UserData.css */
+.user-data {
+    background-image: url("bigdata.jpg");
+    background-size: cover;
+    background-color: #f9f9fc;
+    border: 2px solid #79aaf5;
+    padding: 100px;
+    margin-bottom: 4px;
+    height: 461px;
+  }
+  
+  .user-info {
+    font-size: 16px;
+  }
+  
+  .user-info p {
+    margin: 10px 0;
+  }
+  
