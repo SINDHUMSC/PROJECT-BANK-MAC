@@ -1,7 +1,7 @@
 //import "bootstrap/dist/css/bootstrap.min.css";
 //import './create.css';
 //import './home.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+//import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './Navbar.css';
 import Usercontext from "./context";
 import React from "react";
